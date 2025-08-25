@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-25T19:27:32.067Z",
+  "updatedAt": "2025-08-25T20:27:32.175Z",
   "count": 166,
   "items": [
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": -8,
+      "stock": -9,
       "preseaCode": "9812"
     },
     {
@@ -114,7 +114,7 @@
     {
       "sku": "CD5602AN0-NE",
       "sanitizedSku": "CD5602AN0NE",
-      "stock": 4,
+      "stock": 3,
       "preseaCode": "11414"
     },
     {
@@ -192,7 +192,7 @@
     {
       "sku": "DA50IX-VITRO",
       "sanitizedSku": "DA50IXVITRO",
-      "stock": 4,
+      "stock": 3,
       "preseaCode": "7885"
     },
     {
@@ -210,7 +210,7 @@
     {
       "sku": "DA50X50PL",
       "sanitizedSku": "DA50X50PL",
-      "stock": 0,
+      "stock": -1,
       "preseaCode": "7883"
     },
     {
@@ -534,7 +534,7 @@
     {
       "sku": "LSCDR0805SG",
       "sanitizedSku": "LSCDR0805SG",
-      "stock": 0,
+      "stock": -1,
       "preseaCode": "11379"
     },
     {
@@ -552,7 +552,7 @@
     {
       "sku": "LTDR79SB",
       "sanitizedSku": "LTDR79SB",
-      "stock": 10,
+      "stock": 9,
       "preseaCode": "11381"
     },
     {
@@ -672,7 +672,7 @@
     {
       "sku": "PHLF6510B2",
       "sanitizedSku": "PHLF6510B2",
-      "stock": 223,
+      "stock": 222,
       "preseaCode": "11346"
     },
     {
@@ -684,7 +684,7 @@
     {
       "sku": "PHLF8014-PI2",
       "sanitizedSku": "PHLF8014PI2",
-      "stock": 131,
+      "stock": 126,
       "preseaCode": "11408"
     },
     {
@@ -762,7 +762,7 @@
     {
       "sku": "RDA250FVRT",
       "sanitizedSku": "RDA250FVRT",
-      "stock": 18,
+      "stock": 16,
       "preseaCode": "11037"
     },
     {
@@ -780,7 +780,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": 0,
+      "stock": -2,
       "preseaCode": "11038"
     },
     {
@@ -816,7 +816,7 @@
     {
       "sku": "SAWW65A4000EE",
       "sanitizedSku": "SAWW65A4000EE",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "10489"
     },
     {
