@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-26T18:27:29.239Z",
+  "updatedAt": "2025-08-26T19:27:32.115Z",
   "count": 166,
   "items": [
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": -9,
+      "stock": -10,
       "preseaCode": "9812"
     },
     {
@@ -630,7 +630,7 @@
     {
       "sku": "PHCS07B",
       "sanitizedSku": "PHCS07B",
-      "stock": 31,
+      "stock": 30,
       "preseaCode": "11409"
     },
     {
@@ -678,7 +678,7 @@
     {
       "sku": "PHLF6510-P2",
       "sanitizedSku": "PHLF6510P2",
-      "stock": 23,
+      "stock": 21,
       "preseaCode": "11407"
     },
     {
@@ -858,7 +858,7 @@
     {
       "sku": "TACA-3100FCSA",
       "sanitizedSku": "TACA3100FCSA",
-      "stock": 291,
+      "stock": 288,
       "preseaCode": "10369"
     },
     {
@@ -984,7 +984,7 @@
     {
       "sku": "XPB80-2672SPDG",
       "sanitizedSku": "XPB802672SPDG",
-      "stock": 2,
+      "stock": 1,
       "preseaCode": "11709"
     },
     {
