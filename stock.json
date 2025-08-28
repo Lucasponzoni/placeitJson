@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-28T02:15:35.093Z",
+  "updatedAt": "2025-08-28T02:20:35.723Z",
   "count": 166,
   "items": [
     {
@@ -114,7 +114,7 @@
     {
       "sku": "CD5602AN0-NE",
       "sanitizedSku": "CD5602AN0NE",
-      "stock": 3,
+      "stock": 0,
       "preseaCode": "11414"
     },
     {
@@ -438,7 +438,7 @@
     {
       "sku": "HOTV850",
       "sanitizedSku": "HOTV850",
-      "stock": 8,
+      "stock": 0,
       "preseaCode": "11493"
     },
     {
@@ -450,7 +450,7 @@
     {
       "sku": "KJH-1800FC",
       "sanitizedSku": "KJH1800FC",
-      "stock": 15,
+      "stock": 0,
       "preseaCode": "11617"
     },
     {
