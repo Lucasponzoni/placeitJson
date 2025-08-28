@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-27T21:27:27.411Z",
+  "updatedAt": "2025-08-28T02:07:21.728Z",
   "count": 166,
   "items": [
     {
@@ -798,7 +798,7 @@
     {
       "sku": "S21MINI3GN",
       "sanitizedSku": "S21MINI3GN",
-      "stock": 2,
+      "stock": 0,
       "preseaCode": "1775"
     },
     {
@@ -822,7 +822,7 @@
     {
       "sku": "T3050C",
       "sanitizedSku": "T3050C",
-      "stock": 7,
+      "stock": 0,
       "preseaCode": "3706"
     },
     {
