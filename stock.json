@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-28T02:07:21.728Z",
+  "updatedAt": "2025-08-28T02:15:35.093Z",
   "count": 166,
   "items": [
     {
@@ -276,7 +276,7 @@
     {
       "sku": "EBA5KVT",
       "sanitizedSku": "EBA5KVT",
-      "stock": 5,
+      "stock": 0,
       "preseaCode": "8889"
     },
     {
@@ -882,7 +882,7 @@
     {
       "sku": "TECC055",
       "sanitizedSku": "TECC055",
-      "stock": 6,
+      "stock": 0,
       "preseaCode": "8843"
     },
     {
