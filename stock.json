@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-28T02:33:58.758Z",
+  "updatedAt": "2025-08-28T02:35:44.454Z",
   "count": 166,
   "items": [
     {
@@ -60,7 +60,7 @@
     {
       "sku": "B120DS20",
       "sanitizedSku": "B120DS20",
-      "stock": 0,
+      "stock": 19,
       "preseaCode": "8413"
     },
     {
@@ -72,7 +72,7 @@
     {
       "sku": "B228DS20",
       "sanitizedSku": "B228DS20",
-      "stock": 0,
+      "stock": 6,
       "preseaCode": "8473"
     },
     {
@@ -108,13 +108,13 @@
     {
       "sku": "CANDORS2GN",
       "sanitizedSku": "CANDORS2GN",
-      "stock": 0,
+      "stock": 9,
       "preseaCode": "7257"
     },
     {
       "sku": "CD5602AN0-NE",
       "sanitizedSku": "CD5602AN0NE",
-      "stock": 0,
+      "stock": 3,
       "preseaCode": "11414"
     },
     {
@@ -156,7 +156,7 @@
     {
       "sku": "CW800",
       "sanitizedSku": "CW800",
-      "stock": 0,
+      "stock": 28,
       "preseaCode": "5345"
     },
     {
@@ -192,25 +192,25 @@
     {
       "sku": "DA50IX-VITRO",
       "sanitizedSku": "DA50IXVITRO",
-      "stock": 0,
+      "stock": 2,
       "preseaCode": "7885"
     },
     {
       "sku": "DA50X50BL",
       "sanitizedSku": "DA50X50BL",
-      "stock": 0,
+      "stock": 3,
       "preseaCode": "7093"
     },
     {
       "sku": "DA50X50NE",
       "sanitizedSku": "DA50X50NE",
-      "stock": 0,
+      "stock": 6,
       "preseaCode": "7886"
     },
     {
       "sku": "DA50X50PL",
       "sanitizedSku": "DA50X50PL",
-      "stock": 0,
+      "stock": -1,
       "preseaCode": "7883"
     },
     {
@@ -258,7 +258,7 @@
     {
       "sku": "EBA2S",
       "sanitizedSku": "EBA2S",
-      "stock": 0,
+      "stock": 10,
       "preseaCode": "6588"
     },
     {
@@ -276,7 +276,7 @@
     {
       "sku": "EBA5KVT",
       "sanitizedSku": "EBA5KVT",
-      "stock": 0,
+      "stock": 5,
       "preseaCode": "8889"
     },
     {
@@ -288,13 +288,13 @@
     {
       "sku": "ECA3S",
       "sanitizedSku": "ECA3S",
-      "stock": 0,
+      "stock": 5,
       "preseaCode": "6605"
     },
     {
       "sku": "ECA5S",
       "sanitizedSku": "ECA5S",
-      "stock": 0,
+      "stock": 12,
       "preseaCode": "6604"
     },
     {
@@ -312,7 +312,7 @@
     {
       "sku": "FL-5536F",
       "sanitizedSku": "FL5536F",
-      "stock": 0,
+      "stock": 7,
       "preseaCode": "7760"
     },
     {
@@ -438,7 +438,7 @@
     {
       "sku": "HOTV850",
       "sanitizedSku": "HOTV850",
-      "stock": 0,
+      "stock": 8,
       "preseaCode": "11493"
     },
     {
@@ -450,7 +450,7 @@
     {
       "sku": "KJH-1800FC",
       "sanitizedSku": "KJH1800FC",
-      "stock": 0,
+      "stock": 15,
       "preseaCode": "11617"
     },
     {
@@ -564,7 +564,7 @@
     {
       "sku": "MASTER-5000",
       "sanitizedSku": "MASTER5000",
-      "stock": 0,
+      "stock": 4,
       "preseaCode": "5626"
     },
     {
@@ -708,7 +708,7 @@
     {
       "sku": "PHS50HA4CN",
       "sanitizedSku": "PHS50HA4CN",
-      "stock": 0,
+      "stock": 4,
       "preseaCode": "8344"
     },
     {
@@ -720,13 +720,13 @@
     {
       "sku": "PHTE050B2",
       "sanitizedSku": "PHTE050B2",
-      "stock": 0,
+      "stock": 3,
       "preseaCode": "7348"
     },
     {
       "sku": "PHTE080B2",
       "sanitizedSku": "PHTE080B2",
-      "stock": 0,
+      "stock": 9,
       "preseaCode": "7823"
     },
     {
@@ -792,13 +792,13 @@
     {
       "sku": "RT29",
       "sanitizedSku": "RT29",
-      "stock": 0,
+      "stock": 4,
       "preseaCode": "8259"
     },
     {
       "sku": "S21MINI3GN",
       "sanitizedSku": "S21MINI3GN",
-      "stock": 0,
+      "stock": 2,
       "preseaCode": "1775"
     },
     {
@@ -822,7 +822,7 @@
     {
       "sku": "T3050C",
       "sanitizedSku": "T3050C",
-      "stock": 0,
+      "stock": 7,
       "preseaCode": "3706"
     },
     {
@@ -876,13 +876,13 @@
     {
       "sku": "TCV100",
       "sanitizedSku": "TCV100",
-      "stock": 0,
+      "stock": 13,
       "preseaCode": "6586"
     },
     {
       "sku": "TECC055",
       "sanitizedSku": "TECC055",
-      "stock": 0,
+      "stock": 6,
       "preseaCode": "8843"
     },
     {
@@ -894,7 +894,7 @@
     {
       "sku": "TESZ-65",
       "sanitizedSku": "TESZ65",
-      "stock": 0,
+      "stock": 6,
       "preseaCode": "7695"
     },
     {
