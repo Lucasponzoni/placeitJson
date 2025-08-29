@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-08-29T17:27:46.304Z",
+  "updatedAt": "2025-08-29T18:27:42.981Z",
   "count": 170,
   "items": [
     {
@@ -30,13 +30,13 @@
     {
       "sku": "658B-NEO-BLANCO",
       "sanitizedSku": "658BNEOBLANCO",
-      "stock": 20,
+      "stock": 19,
       "preseaCode": "10580"
     },
     {
       "sku": "658G-NEO-GRIS",
       "sanitizedSku": "658GNEOGRIS",
-      "stock": 25,
+      "stock": 24,
       "preseaCode": "10581"
     },
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": 20,
+      "stock": 18,
       "preseaCode": "9812"
     },
     {
@@ -198,7 +198,7 @@
     {
       "sku": "DA50IX-VITRO",
       "sanitizedSku": "DA50IXVITRO",
-      "stock": 2,
+      "stock": 0,
       "preseaCode": "7885"
     },
     {
@@ -246,7 +246,7 @@
     {
       "sku": "DA-L90-SI",
       "sanitizedSku": "DAL90SI",
-      "stock": 7,
+      "stock": 6,
       "preseaCode": "11703"
     },
     {
@@ -282,7 +282,7 @@
     {
       "sku": "EBA5KVT",
       "sanitizedSku": "EBA5KVT",
-      "stock": 5,
+      "stock": 4,
       "preseaCode": "8889"
     },
     {
@@ -516,7 +516,7 @@
     {
       "sku": "LFDR0606LB",
       "sanitizedSku": "LFDR0606LB",
-      "stock": 11,
+      "stock": 10,
       "preseaCode": "11393"
     },
     {
@@ -654,7 +654,7 @@
     {
       "sku": "PHCS07B",
       "sanitizedSku": "PHCS07B",
-      "stock": 28,
+      "stock": 27,
       "preseaCode": "11409"
     },
     {
@@ -696,7 +696,7 @@
     {
       "sku": "PHLF6510B2",
       "sanitizedSku": "PHLF6510B2",
-      "stock": 215,
+      "stock": 214,
       "preseaCode": "11346"
     },
     {
@@ -708,7 +708,7 @@
     {
       "sku": "PHLF8014-PI2",
       "sanitizedSku": "PHLF8014PI2",
-      "stock": 98,
+      "stock": 91,
       "preseaCode": "11408"
     },
     {
@@ -726,7 +726,7 @@
     {
       "sku": "PHS32HA4CN",
       "sanitizedSku": "PHS32HA4CN",
-      "stock": 13,
+      "stock": 12,
       "preseaCode": "9070"
     },
     {
