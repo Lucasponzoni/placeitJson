@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-01T19:27:39.827Z",
+  "updatedAt": "2025-09-01T20:27:41.136Z",
   "count": 170,
   "items": [
     {
@@ -36,7 +36,7 @@
     {
       "sku": "658G-NEO-GRIS",
       "sanitizedSku": "658GNEOGRIS",
-      "stock": 23,
+      "stock": 22,
       "preseaCode": "10581"
     },
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": 11,
+      "stock": 3,
       "preseaCode": "9812"
     },
     {
@@ -504,7 +504,7 @@
     {
       "sku": "L55P635",
       "sanitizedSku": "L55P635",
-      "stock": 5,
+      "stock": 4,
       "preseaCode": "10891"
     },
     {
@@ -690,31 +690,31 @@
     {
       "sku": "PHIN35HA3BN",
       "sanitizedSku": "PHIN35HA3BN",
-      "stock": 10,
+      "stock": 7,
       "preseaCode": "9793"
     },
     {
       "sku": "PHLF6510B2",
       "sanitizedSku": "PHLF6510B2",
-      "stock": 208,
+      "stock": 207,
       "preseaCode": "11346"
     },
     {
       "sku": "PHLF6510-P2",
       "sanitizedSku": "PHLF6510P2",
-      "stock": 19,
+      "stock": 18,
       "preseaCode": "11407"
     },
     {
       "sku": "PHLF8014-PI2",
       "sanitizedSku": "PHLF8014PI2",
-      "stock": 72,
+      "stock": 63,
       "preseaCode": "11408"
     },
     {
       "sku": "PHLS128GT",
       "sanitizedSku": "PHLS128GT",
-      "stock": 5,
+      "stock": 4,
       "preseaCode": "11676"
     },
     {
@@ -726,7 +726,7 @@
     {
       "sku": "PHS32HA4CN",
       "sanitizedSku": "PHS32HA4CN",
-      "stock": 12,
+      "stock": 11,
       "preseaCode": "9070"
     },
     {
@@ -786,7 +786,7 @@
     {
       "sku": "RDA250FVRT",
       "sanitizedSku": "RDA250FVRT",
-      "stock": 15,
+      "stock": 14,
       "preseaCode": "11037"
     },
     {
@@ -804,7 +804,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": 3,
+      "stock": 0,
       "preseaCode": "11038"
     },
     {
@@ -888,7 +888,7 @@
     {
       "sku": "TACA-3300FCSA",
       "sanitizedSku": "TACA3300FCSA",
-      "stock": 291,
+      "stock": 290,
       "preseaCode": "9395"
     },
     {
