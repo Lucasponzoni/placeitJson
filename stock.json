@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-02T15:27:44.756Z",
+  "updatedAt": "2025-09-02T16:27:41.958Z",
   "count": 170,
   "items": [
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": 3,
+      "stock": -2,
       "preseaCode": "9812"
     },
     {
@@ -156,7 +156,7 @@
     {
       "sku": "CN514SS-N",
       "sanitizedSku": "CN514SSN",
-      "stock": 2,
+      "stock": 1,
       "preseaCode": "11315"
     },
     {
@@ -354,7 +354,7 @@
     {
       "sku": "H6900XT",
       "sanitizedSku": "H6900XT",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "10221"
     },
     {
@@ -450,7 +450,7 @@
     {
       "sku": "HGFAB2024PI",
       "sanitizedSku": "HGFAB2024PI",
-      "stock": 15,
+      "stock": 14,
       "preseaCode": "11334"
     },
     {
@@ -504,7 +504,7 @@
     {
       "sku": "L55P635",
       "sanitizedSku": "L55P635",
-      "stock": 4,
+      "stock": 3,
       "preseaCode": "10891"
     },
     {
@@ -582,7 +582,7 @@
     {
       "sku": "MASTER-4300",
       "sanitizedSku": "MASTER4300",
-      "stock": 1,
+      "stock": 0,
       "preseaCode": "8701"
     },
     {
@@ -594,7 +594,7 @@
     {
       "sku": "MPHDW20UAP",
       "sanitizedSku": "MPHDW20UAP",
-      "stock": 22,
+      "stock": 20,
       "preseaCode": "11288"
     },
     {
@@ -624,7 +624,7 @@
     {
       "sku": "PHBKS34HA6AN",
       "sanitizedSku": "PHBKS34HA6AN",
-      "stock": 12,
+      "stock": 11,
       "preseaCode": "10550"
     },
     {
@@ -690,13 +690,13 @@
     {
       "sku": "PHIN35HA3BN",
       "sanitizedSku": "PHIN35HA3BN",
-      "stock": 7,
+      "stock": 6,
       "preseaCode": "9793"
     },
     {
       "sku": "PHLF6510B2",
       "sanitizedSku": "PHLF6510B2",
-      "stock": 207,
+      "stock": 206,
       "preseaCode": "11346"
     },
     {
@@ -726,7 +726,7 @@
     {
       "sku": "PHS32HA4CN",
       "sanitizedSku": "PHS32HA4CN",
-      "stock": 11,
+      "stock": 10,
       "preseaCode": "9070"
     },
     {
@@ -804,7 +804,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": 0,
+      "stock": -2,
       "preseaCode": "11038"
     },
     {
@@ -972,7 +972,7 @@
     {
       "sku": "WRM42HB",
       "sanitizedSku": "WRM42HB",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "10985"
     },
     {
