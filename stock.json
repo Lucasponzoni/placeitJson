@@ -1,12 +1,12 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-05T20:27:40.060Z",
+  "updatedAt": "2025-09-05T21:27:46.601Z",
   "count": 170,
   "items": [
     {
       "sku": "116",
       "sanitizedSku": "116",
-      "stock": -5,
+      "stock": -6,
       "preseaCode": "10215"
     },
     {
@@ -30,13 +30,13 @@
     {
       "sku": "658B-NEO-BLANCO",
       "sanitizedSku": "658BNEOBLANCO",
-      "stock": 15,
+      "stock": 13,
       "preseaCode": "10580"
     },
     {
       "sku": "658G-NEO-GRIS",
       "sanitizedSku": "658GNEOGRIS",
-      "stock": 21,
+      "stock": 20,
       "preseaCode": "10581"
     },
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": -13,
+      "stock": -14,
       "preseaCode": "9812"
     },
     {
@@ -180,7 +180,7 @@
     {
       "sku": "DA-402025",
       "sanitizedSku": "DA402025",
-      "stock": 4,
+      "stock": 2,
       "preseaCode": "11618"
     },
     {
@@ -210,7 +210,7 @@
     {
       "sku": "DA50X50NE",
       "sanitizedSku": "DA50X50NE",
-      "stock": 5,
+      "stock": 4,
       "preseaCode": "7886"
     },
     {
@@ -570,7 +570,7 @@
     {
       "sku": "LTDR79SB",
       "sanitizedSku": "LTDR79SB",
-      "stock": 9,
+      "stock": 8,
       "preseaCode": "11381"
     },
     {
@@ -588,7 +588,7 @@
     {
       "sku": "MASTER-5000",
       "sanitizedSku": "MASTER5000",
-      "stock": -1,
+      "stock": -2,
       "preseaCode": "5626"
     },
     {
@@ -618,7 +618,7 @@
     {
       "sku": "PE-AFD650N",
       "sanitizedSku": "PEAFD650N",
-      "stock": 33,
+      "stock": 32,
       "preseaCode": "11337"
     },
     {
@@ -648,13 +648,13 @@
     {
       "sku": "PHCH297B",
       "sanitizedSku": "PHCH297B",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "11326"
     },
     {
       "sku": "PHCS07B",
       "sanitizedSku": "PHCS07B",
-      "stock": 26,
+      "stock": 25,
       "preseaCode": "11409"
     },
     {
@@ -690,7 +690,7 @@
     {
       "sku": "PHIN35HA3BN",
       "sanitizedSku": "PHIN35HA3BN",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "9793"
     },
     {
@@ -708,13 +708,13 @@
     {
       "sku": "PHLF8014-PI2",
       "sanitizedSku": "PHLF8014PI2",
-      "stock": 59,
+      "stock": 56,
       "preseaCode": "11408"
     },
     {
       "sku": "PHLS128GT",
       "sanitizedSku": "PHLS128GT",
-      "stock": 4,
+      "stock": 3,
       "preseaCode": "11676"
     },
     {
@@ -768,7 +768,7 @@
     {
       "sku": "PUNTOS-BNA",
       "sanitizedSku": "PUNTOSBNA",
-      "stock": 12,
+      "stock": 13,
       "preseaCode": "11063"
     },
     {
@@ -1002,7 +1002,7 @@
     {
       "sku": "XPB80-2672SP",
       "sanitizedSku": "XPB802672SP",
-      "stock": 0,
+      "stock": -2,
       "preseaCode": "11708"
     },
     {
