@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-05T17:27:40.294Z",
+  "updatedAt": "2025-09-05T18:27:40.424Z",
   "count": 170,
   "items": [
     {
@@ -216,7 +216,7 @@
     {
       "sku": "DA50X50PL",
       "sanitizedSku": "DA50X50PL",
-      "stock": 7,
+      "stock": 15,
       "preseaCode": "7883"
     },
     {
@@ -384,7 +384,7 @@
     {
       "sku": "HDR320F50N",
       "sanitizedSku": "HDR320F50N",
-      "stock": -3,
+      "stock": -2,
       "preseaCode": "11182"
     },
     {
@@ -582,7 +582,7 @@
     {
       "sku": "MASTER-4300",
       "sanitizedSku": "MASTER4300",
-      "stock": -1,
+      "stock": 1,
       "preseaCode": "8701"
     },
     {
@@ -714,13 +714,13 @@
     {
       "sku": "PHLS128GT",
       "sanitizedSku": "PHLS128GT",
-      "stock": 2,
+      "stock": 4,
       "preseaCode": "11676"
     },
     {
       "sku": "PHNT267XD2",
       "sanitizedSku": "PHNT267XD2",
-      "stock": 1,
+      "stock": 9,
       "preseaCode": "11675"
     },
     {
@@ -804,7 +804,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": -9,
+      "stock": 3,
       "preseaCode": "11038"
     },
     {
@@ -1008,7 +1008,7 @@
     {
       "sku": "XPB80-2672SPDG",
       "sanitizedSku": "XPB802672SPDG",
-      "stock": 8,
+      "stock": 16,
       "preseaCode": "11709"
     },
     {
