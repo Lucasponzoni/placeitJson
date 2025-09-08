@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-08T12:27:43.553Z",
+  "updatedAt": "2025-09-08T13:27:48.321Z",
   "count": 170,
   "items": [
     {
@@ -54,7 +54,7 @@
     {
       "sku": "AX-3000",
       "sanitizedSku": "AX3000",
-      "stock": 19,
+      "stock": 18,
       "preseaCode": "11624"
     },
     {
@@ -84,13 +84,13 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": -14,
+      "stock": 6,
       "preseaCode": "9812"
     },
     {
       "sku": "BSI35WCLW",
       "sanitizedSku": "BSI35WCLW",
-      "stock": 10,
+      "stock": 11,
       "preseaCode": "10888"
     },
     {
@@ -156,7 +156,7 @@
     {
       "sku": "CN514SS-N",
       "sanitizedSku": "CN514SSN",
-      "stock": -1,
+      "stock": 0,
       "preseaCode": "11315"
     },
     {
@@ -174,7 +174,7 @@
     {
       "sku": "DA-322025",
       "sanitizedSku": "DA322025",
-      "stock": 14,
+      "stock": 12,
       "preseaCode": "11622"
     },
     {
@@ -198,13 +198,13 @@
     {
       "sku": "DA50IX-VITRO",
       "sanitizedSku": "DA50IXVITRO",
-      "stock": -1,
+      "stock": 3,
       "preseaCode": "7885"
     },
     {
       "sku": "DA50X50BL",
       "sanitizedSku": "DA50X50BL",
-      "stock": 3,
+      "stock": 2,
       "preseaCode": "7093"
     },
     {
@@ -318,7 +318,7 @@
     {
       "sku": "FL-5536F",
       "sanitizedSku": "FL5536F",
-      "stock": 7,
+      "stock": 6,
       "preseaCode": "7760"
     },
     {
@@ -384,7 +384,7 @@
     {
       "sku": "HDR320F50N",
       "sanitizedSku": "HDR320F50N",
-      "stock": -2,
+      "stock": 3,
       "preseaCode": "11182"
     },
     {
@@ -564,7 +564,7 @@
     {
       "sku": "LTDR0810PB0",
       "sanitizedSku": "LTDR0810PB0",
-      "stock": -1,
+      "stock": 2,
       "preseaCode": "11323"
     },
     {
@@ -588,7 +588,7 @@
     {
       "sku": "MASTER-5000",
       "sanitizedSku": "MASTER5000",
-      "stock": -2,
+      "stock": 2,
       "preseaCode": "5626"
     },
     {
@@ -654,7 +654,7 @@
     {
       "sku": "PHCS07B",
       "sanitizedSku": "PHCS07B",
-      "stock": 25,
+      "stock": 24,
       "preseaCode": "11409"
     },
     {
@@ -690,19 +690,19 @@
     {
       "sku": "PHIN35HA3BN",
       "sanitizedSku": "PHIN35HA3BN",
-      "stock": 2,
+      "stock": 5,
       "preseaCode": "9793"
     },
     {
       "sku": "PHLF6510B2",
       "sanitizedSku": "PHLF6510B2",
-      "stock": 188,
+      "stock": 183,
       "preseaCode": "11346"
     },
     {
       "sku": "PHLF6510-P2",
       "sanitizedSku": "PHLF6510P2",
-      "stock": 18,
+      "stock": 17,
       "preseaCode": "11407"
     },
     {
@@ -720,7 +720,7 @@
     {
       "sku": "PHNT267XD2",
       "sanitizedSku": "PHNT267XD2",
-      "stock": 9,
+      "stock": 8,
       "preseaCode": "11675"
     },
     {
@@ -804,7 +804,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": 3,
+      "stock": 19,
       "preseaCode": "11038"
     },
     {
@@ -840,7 +840,7 @@
     {
       "sku": "SAWW65A4000EE",
       "sanitizedSku": "SAWW65A4000EE",
-      "stock": -1,
+      "stock": 0,
       "preseaCode": "10489"
     },
     {
@@ -1008,7 +1008,7 @@
     {
       "sku": "XPB80-2672SPDG",
       "sanitizedSku": "XPB802672SPDG",
-      "stock": 16,
+      "stock": 13,
       "preseaCode": "11709"
     },
     {
