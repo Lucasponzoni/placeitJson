@@ -1,6 +1,6 @@
 {
   "source": "preciosPlaceIt",
-  "updatedAt": "2025-09-09T18:28:04.180Z",
+  "updatedAt": "2025-09-09T19:27:43.184Z",
   "count": 170,
   "items": [
     {
@@ -84,7 +84,7 @@
     {
       "sku": "BSI35WCGT",
       "sanitizedSku": "BSI35WCGT",
-      "stock": 6,
+      "stock": 5,
       "preseaCode": "9812"
     },
     {
@@ -240,7 +240,7 @@
     {
       "sku": "DA-L90-BL",
       "sanitizedSku": "DAL90BL",
-      "stock": 7,
+      "stock": 6,
       "preseaCode": "11702"
     },
     {
@@ -594,7 +594,7 @@
     {
       "sku": "MPHDW20UAP",
       "sanitizedSku": "MPHDW20UAP",
-      "stock": 20,
+      "stock": 19,
       "preseaCode": "11288"
     },
     {
@@ -690,7 +690,7 @@
     {
       "sku": "PHIN35HA3BN",
       "sanitizedSku": "PHIN35HA3BN",
-      "stock": 5,
+      "stock": 4,
       "preseaCode": "9793"
     },
     {
@@ -804,7 +804,7 @@
     {
       "sku": "RDP400FZRT",
       "sanitizedSku": "RDP400FZRT",
-      "stock": 17,
+      "stock": 16,
       "preseaCode": "11038"
     },
     {
